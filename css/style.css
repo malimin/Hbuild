@@ -1,0 +1,14 @@
+p {
+    font-size: 10ex;
+    color: yellow;
+}
+br{
+    color: orangered;
+}
+h1{
+    color: blue;
+    width: 14px; 
+    height: 10em;
+    background-color: bisque;
+    /* px:像素  em:字符  %:百分比 */
+}
